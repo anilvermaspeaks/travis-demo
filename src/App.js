@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ConditionalBlock from './conditionalBlock/conditionalBlock'
+import ConditionalBlock from './conditionalBlock/ConditionalBlock'
 
 function App() {
   return (
